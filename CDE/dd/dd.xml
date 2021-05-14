@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReportingModule>
+    <Metadata>
+        <Label>dd</Label>
+        <ID>dd</ID>
+        <SchemaVersion>2.01</SchemaVersion>
+        <ModuleVersion>1.0</ModuleVersion>
+        <CreatedDate>2021-05-14</CreatedDate>
+        <LastModifiedDate>2021-05-14</LastModifiedDate>
+        <DevelopedBy>S, Sreejith</DevelopedBy>
+        <authors>
+            <person>
+                <name>S, Sreejith</name>
+                <role>author</role>
+            </person>
+            <person>
+                <name>Administrator, Assist</name>
+                <role>author</role>
+            </person>
+            <person>
+                <name>Lead, Sreejith</name>
+                <role>author</role>
+            </person>
+        </authors>
+        <Info>
+            <Description>dddddd</Description>
+            <Diagrams>
+                <Diagram Id="1620983004447" DisplaySequence="1" IsKeyDiagram="false">
+                    <Location>ASSIST-Workflow.png</Location>
+                    <Label>ASSIST-Workflow</Label>
+                </Diagram>
+            </Diagrams>
+            <Contact>
+                <Institution>ACR</Institution>
+            </Contact>
+        </Info>
+    </Metadata>
+    <DataElements>
+        <IntegerDataElement Id="1" DisplaySequence="1">
+            <Label>1</Label>
+        </IntegerDataElement>
+    </DataElements>
+    <Rules />
+    <EndPoints />
+</ReportingModule>
