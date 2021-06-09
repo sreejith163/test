@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReportingModule>
+    <Metadata>
+        <Label>TEST 1</Label>
+        <ID>TEST_1</ID>
+        <SchemaVersion>2.01</SchemaVersion>
+        <ModuleVersion>1.0</ModuleVersion>
+        <CreatedDate>2021-06-8</CreatedDate>
+        <DevelopedBy>Administrator, Assist</DevelopedBy>
+        <Info>
+            <Description>TEST 1</Description>
+        </Info>
+    </Metadata>
+    <DataElements>
+        <IntegerDataElement Id="1" IsRequired="true" DisplaySequence="1">
+            <Label>1</Label>
+            <Diagrams>
+                <Diagram Id="1623147395719" DisplaySequence="1">
+                    <Location>photo6242061132068137855.jpg</Location>
+                    <Label>photo6242061132068137855</Label>
+                </Diagram>
+            </Diagrams>
+        </IntegerDataElement>
+    </DataElements>
+    <Rules />
+    <EndPoints />
+</ReportingModule>
