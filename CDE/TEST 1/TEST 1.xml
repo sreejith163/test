@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReportingModule>
+    <Metadata>
+        <Label>TEST 1</Label>
+        <ID>TEST_1</ID>
+        <SchemaVersion>2.01</SchemaVersion>
+        <ModuleVersion>1.0</ModuleVersion>
+        <CreatedDate>2021-06-8</CreatedDate>
+        <LastModifiedDate>2021-06-9</LastModifiedDate>
+        <DevelopedBy>Administrator, Assist</DevelopedBy>
+        <CodableConcept Name="Codable_Concept_TEST 1">
+            <Coding>
+                <System Value="http://www.radlex.org/RID" />
+                <Code Value="C" />
+                <Display Value="CS" />
+            </Coding>
+        </CodableConcept>
+        <authors>
+            <person>
+                <name>AllRounder, Assist</name>
+                <role>author</role>
+            </person>
+            <person>
+                <name>AllRounder, Assist</name>
+                <role>author</role>
+            </person>
+        </authors>
+        <Info>
+            <Description>TEST 1</Description>
+            <References>
+                <Citation>
+                    <Coding>
+                        <System Value="http://www.ncbi.nlm.nih.gov/pubmed" />
+                        <Code Value="12" />
+                        <Display Value="12" />
+                    </Coding>
+                    <Coding>
+                        <System Value="https://www.doi.org" />
+                        <Code Value="10.1016/0006-2952(75)90002-7" />
+                        <Display Value="10.1016/0006-2952(75)90002-7" />
+                    </Coding>
+                    <Description>The effect of adrenaline and of alpha- and beta-adrenergic blocking agents on ATP concentration and on incorporation of 32Pi into ATP in rat fat cells.</Description>
+                </Citation>
+            </References>
+        </Info>
+        <ApplicableExams>
+            <ApplicableExamCategory Axis="Modality">PT</ApplicableExamCategory>
+            <ApplicableExamCategory Axis="Anatomy">12</ApplicableExamCategory>
+        </ApplicableExams>
+    </Metadata>
+    <DataElements />
+    <Rules />
+    <EndPoints />
+</ReportingModule>
